@@ -584,7 +584,6 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Image": "in_flag",
             "Country": "India"
         },{
-
 	    "id": "7",
             "file": "client
 dev tun
@@ -682,8 +681,7 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Image": "jp_flag",
             "Country": "Japan"
         },{
-
-	    "id": "8",
+            "id": "8",
             "file": "client
 dev tun
 proto tcp-client
@@ -780,7 +778,6 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Image": "mx_flag",
             "Country": "Mexico"
         },{
-
 	    "id": "9",
             "file": "client
 dev tun
@@ -878,7 +875,6 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Image": "es_flag",
             "Country": "Spain - Madrid"
         },{
-
 	    "id": "10",
             "file": "client
 dev tun
@@ -974,9 +970,8 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Username": "milind",
             "password": "milind1564564",
             "Image": "uk_flag",
-            "Country": "United Kingdom - London"
+            "Country": "United Kingdom"
         },{
-
 	    "id": "11",
             "file": "client
 dev tun
@@ -1072,9 +1067,8 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Username": "milind",
             "password": "milind1564564",
             "Image": "ru_flag",
-            "Country": "Russia - Moscow"
+            "Country": "Russia"
         },{
-
 	    "id": "12",
             "file": "client
 dev tun
@@ -1172,8 +1166,7 @@ slnuuiN7no+OzHnMUvOfWH7RZxYks87DEbuPqk95bwDGiBf/+gUs
             "Image": "sg_flag",
             "Country": "Singapore"
         },{
-		
-            "id": "13",
+	    "id": "13",
             "file": "client
 dev tun
 proto tcp-client
