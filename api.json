@@ -5,7 +5,7 @@
             "id": "1",
             "file": "client
 dev tun
-proto tcp-client
+proto udp-client
 persist-key
 persist-tun
 tls-client
